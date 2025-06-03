@@ -10,9 +10,9 @@
 ### About Me
 
 I’m a **Security-Focused Full Stack Web Developer** currently mastering modern tools and frameworks in: 
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" style="vertical-align: middle;"/> <strong>Python:</strong> `Django` | `DRF` | `FastAPI`
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="17" style="vertical-align: middle;"/> <strong>Python:</strong> `Django` | `DRF` | `FastAPI`
 
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="vertical-align: middle;"/> <strong>JavaScript: </strong>  `React` | `Node.js` | `Express.js` | `Next.js` 
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="17" style="vertical-align: middle;"/> <strong>JavaScript: </strong>  `React` | `Node.js` | `Express.js` | `Next.js` 
 
 to build scalable, cutting-edge web applications.
 
