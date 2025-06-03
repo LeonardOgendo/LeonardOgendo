@@ -29,11 +29,17 @@ I am,
 
 - 💬 Open to discussions on full stack development, API design, secure architecture, Cybersecurity --> Penetration Testing(Ethical Hacking)
 
-📫 Connect with me:
-
-
 
 <h3 align="left">Connect with me:</h3>
+
+📫 **Email:** ogendoleonard5@gmail.com 
+
+🌐 **Portfolio:** [leonard-ogendo-portfolio](https://leonard-ogendo-portfolio.vercel.app)  
+
+💼 **LinkedIn:** [linkedin.com/in/LeonardOgendo](https://linkedin.com/in/leonard-ogendo-58ab01225)
+
+---
+
 <p align="left">
 <a href="https://twitter.com/dev1_leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev1_leon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonard-ogendo-58ab01225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard-ogendo-58ab01225" height="30" width="40" /></a>
