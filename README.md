@@ -6,7 +6,9 @@
 <img align="right" alt="Coding"  width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
-### About Me
+
+<h2>About Me</h2>
+
 I’m a **Security-Focused Full Stack Web Developer** currently mastering modern tools and frameworks in: 
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" style="vertical-align: middle;"/> <strong>Python:</strong> `Django` | `DRF` | `FastAPI`
 
@@ -50,8 +52,7 @@ I am,
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h2>Languages and Tools</h2>
 
 <h4>Core Languages</h4>
 
