@@ -6,17 +6,33 @@
 <img align="right" alt="Coding"  width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dev1_leon" target="blank"><img src="https://img.shields.io/twitter/follow/dev1_leon?logo=twitter&style=for-the-badge" alt="dev1_leon" /></a> </p>
+### About Me
+I’m a **Security-Focused Full Stack Web Developer** currently mastering modern tools and frameworks in: 
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" style="vertical-align: middle;"/> <strong>Python:</strong> `Django` | `DRF` | `FastAPI`
 
-- 🔭 I’m currently working on **Ecommerce Project**
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="vertical-align: middle;"/> <strong>JavaScript: </strong>  `React` | `Node.js` | `Express.js` | `Next.js` 
 
-- 🌱 I’m currently learning **MERN Stack**
+to build scalable, cutting-edge web applications.
 
-- 💬 Ask me about **Python(Django), HTML5, CSS3, JavaScript**
 
-- 📫 How to reach me **ogendoleonard5@gmail.com**
 
-- ⚡ Fun fact **I laugh a lot**
+
+My passion lies in combining Software Development with Web & Mobile App Security and Penetration Testing, ensuring the software I build is robust and secure on top of assisting organizations secure their systems through simulated attacks.
+
+I am, 
+
+- 🔭 Actively advancing skills in DevSecOps, backend security, and cloud deployments
+
+- 🌱 Continuously exploring advanced cybersecurity techniques and secure coding practices
+
+- Continuously mastering modern frameworks in Python and JavaScript for building modern web applications. 
+
+- 💬 Open to discussions on full stack development, API design, secure architecture, Cybersecurity --> Penetration Testing(Ethical Hacking)
+
+📫 Connect with me: leonard@example.com
+🌐 Portfolio: your-portfolio-link.com | LinkedIn: linkedin.com/in/LeonardOgendo
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
