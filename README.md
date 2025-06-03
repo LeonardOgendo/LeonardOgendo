@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
 
-<h2>About Me</h2>
+### About Me
 
 I’m a **Security-Focused Full Stack Web Developer** currently mastering modern tools and frameworks in: 
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" style="vertical-align: middle;"/> <strong>Python:</strong> `Django` | `DRF` | `FastAPI`
@@ -33,7 +33,7 @@ I am,
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 
 📫 **Email:** ogendoleonard5@gmail.com 
 
@@ -52,45 +52,45 @@ I am,
 
 <br>
 
-<h2>Languages and Tools</h2>
+### Languages and Tools
 
-<h4>Core Languages</h4>
+<h5>Core Languages</h5>
 
 > Python   | JavaScript   | Bash (Scripting)
 
 ---
 
-<h4>Frontend</h4>
+<h5>Frontend</h5>
 
 > React | Django Template Language (DTL) | Bootstrap | Tailwind CSS | HTML5 | CSS3
 
 ---
 
-<h4>Backend</h4>  
+<h5>Backend</h5>  
 
 > Django | Node.js | Express.js | Next.js
 
 ---
 
-<h4>APIs & Frameworks</h4>
+<h5>APIs & Frameworks</h5>
 
 > Django REST Framework (DRF) | FastAPI | Express API
 
 ---
 
-<h4>Databases</h4>
+<h5>Databases</h5>
 
 > PostgreSQL | MongoDB
 
 ---
 
-<h4>Version Control</h4>  
+<h5>Version Control</h5>  
 
 > Git | GitHub
 
 ---
 
-<h4>Cybersecurity</h4> 
+<h5>Cybersecurity</h5> 
 
 > Penetration Testing (Ethical Hacking)
 
@@ -106,7 +106,7 @@ I am,
 
 ---
 
-<h4>Other Tools</h4>
+<h5>Other Tools</h5>
 
 > <p align="left">
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux &nbsp;
