@@ -56,37 +56,37 @@ I am,
 
 <h4>Core Languages</h4>
 
-> Python   | JavaScript   | Bash (Scripting)
+> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Bash (Scripting)
 
 ---
 
 <h4>Frontend</h4>
 
-> React | Django Template Language (DTL) | Bootstrap | Tailwind CSS | HTML5 | CSS3
+> React &nbsp; | &nbsp; Django Template Language (DTL) &nbsp; | &nbsp; Bootstrap &nbsp; | Tailwind CSS &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3
 
 ---
 
 <h4>Backend</h4>  
 
-> Django | Node.js | Express.js | Next.js
+> Django &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Next.js
 
 ---
 
 <h4>APIs & Frameworks</h4>
 
-> Django REST Framework (DRF) | FastAPI | Express API
+> Django REST Framework (DRF) &nbsp; | &nbsp; FastAPI &nbsp; | &nbsp; Express API
 
 ---
 
 <h4>Databases</h4>
 
-> PostgreSQL | MongoDB
+> PostgreSQL &nbsp; | &nbsp; MongoDB
 
 ---
 
 <h4>Version Control</h4>  
 
-> Git | GitHub
+> Git &nbsp; | &nbsp; GitHub
 
 ---
 
@@ -102,7 +102,7 @@ I am,
 
 > Vulnerability Scanning 
 
-> Burp Suite  | Nmap | Metasploit | Nikto | ExploitDB |
+> Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB
 
 ---
 
