@@ -54,43 +54,43 @@ I am,
 
 ### Languages and Tools
 
-<h5>Core Languages</h5>
+<h4>Core Languages</h4>
 
 > Python   | JavaScript   | Bash (Scripting)
 
 ---
 
-<h5>Frontend</h5>
+<h4>Frontend</h4>
 
 > React | Django Template Language (DTL) | Bootstrap | Tailwind CSS | HTML5 | CSS3
 
 ---
 
-<h5>Backend</h5>  
+<h4>Backend</h4>  
 
 > Django | Node.js | Express.js | Next.js
 
 ---
 
-<h5>APIs & Frameworks</h5>
+<h4>APIs & Frameworks</h4>
 
 > Django REST Framework (DRF) | FastAPI | Express API
 
 ---
 
-<h5>Databases</h5>
+<h4>Databases</h4>
 
 > PostgreSQL | MongoDB
 
 ---
 
-<h5>Version Control</h5>  
+<h4>Version Control</h4>  
 
 > Git | GitHub
 
 ---
 
-<h5>Cybersecurity</h5> 
+<h4>Cybersecurity</h4> 
 
 > Penetration Testing (Ethical Hacking)
 
@@ -106,7 +106,7 @@ I am,
 
 ---
 
-<h5>Other Tools</h5>
+<h4>Other Tools</h4>
 
 > <p align="left">
 > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux &nbsp;
