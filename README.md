@@ -1,7 +1,9 @@
-![Banner Image](https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg)
+<p>
+  <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg" alt="Banner Image" width="100%" height="250"/>
+</p>
 <h1 align="center">Hi 👋, I'm Leonard Ogendo</h1>
-<h3 align="center">A passionate Full Stack Developer and Cybersecity Specialist | Ethical Hacker</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
+<h3 align="center">A Customer-Driven Fullstack Developer & Penetration Tester</h3>
+<img align="right" alt="Coding"  width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dev1_leon" target="blank"><img src="https://img.shields.io/twitter/follow/dev1_leon?logo=twitter&style=for-the-badge" alt="dev1_leon" /></a> </p>
