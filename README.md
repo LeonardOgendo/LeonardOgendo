@@ -52,29 +52,42 @@ I am,
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <h4>Core Languages</h4>
 
 > Python   | JavaScript   | Bash (Scripting)
+
+---
 
 <h4>Frontend</h4>
 
 > React | Django Template Language (DTL) | Bootstrap | Tailwind CSS | HTML5 | CSS3
 
+---
+
 <h4>Backend</h4>  
 
 > Django | Node.js | Express.js | Next.js
 
+---
+
 <h4>APIs & Frameworks</h4>
 
-> Django REST Framework (DRF) | FastAPI | Express API 
+> Django REST Framework (DRF) | FastAPI | Express API
+
+---
 
 <h4>Databases</h4>
 
 > PostgreSQL | MongoDB
 
+---
+
 <h4>Version Control</h4>  
 
-Git | GitHub
+> Git | GitHub
+
+---
 
 <h4>Cybersecurity</h4> 
 
@@ -84,13 +97,22 @@ Git | GitHub
 
 > OWASP Top 10
 
-> Burp Suite  | Nmap | Metasploit |
+> Vulnerability Assessment
 
-### 🚀 Bonus Tools & Dev Practices  
-**VS Code**, **Linux Shell**,  
-**CI/CD Pipelines**, **Testing**, **Documentation Writing**,  
-**Monitoring & Logging**, *(Security-focused development lifecycle)*
+> Vulnerability Scanning 
 
+> Burp Suite  | Nmap | Metasploit | Nikto | ExploitDB |
+
+---
+
+<h4>Other Tools</h4>
+
+> <p align="left">
+> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux &nbsp;
+>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="17"/> Docker &nbsp;
+> </p>
+
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardogendo&show_icons=true&locale=en&layout=compact" alt="leonardogendo" /></p>
