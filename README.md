@@ -29,8 +29,7 @@ I am,
 
 - 💬 Open to discussions on full stack development, API design, secure architecture, Cybersecurity --> Penetration Testing(Ethical Hacking)
 
-📫 Connect with me: leonard@example.com
-🌐 Portfolio: your-portfolio-link.com | LinkedIn: linkedin.com/in/LeonardOgendo
+📫 Connect with me:
 
 
 
