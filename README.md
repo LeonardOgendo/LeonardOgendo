@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg" alt="Banner Image" width="100%" height="250"/>
+  <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg" alt="Banner Image" width="100%" height="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Leonard Ogendo</h1>
 <h3 align="center">A Customer-Driven Fullstack Developer & Penetration Tester</h3>
