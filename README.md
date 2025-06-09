@@ -9,17 +9,11 @@
 
 ### About Me
 
-I’m a **Security-Focused Full Stack Web Developer** currently mastering modern tools and frameworks in: 
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="17" style="vertical-align: middle;"/> <strong>Python: &nbsp; </strong> `Django` | `DRF` | `FastAPI`
+I’m a **Junior Secure Software Systems Engineer** with deep specialization in Secure Software Engineering, Web & Mobile App Security, and Cybersecurity/Penetration Testing. With a strong command of **Python** & **JavaScript**, i build, test, and secure modern web applications — from the codebase to the cloud. 
 
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="17" style="vertical-align: middle;"/> <strong>JavaScript: &nbsp;</strong>  `React` | `Node.js` | `Express.js` | `Next.js` 
+My unique capability lies in blending development and security into a unified engineering discipline, enabling me to write resilient systems that defend against threats by design.
 
-to build scalable, cutting-edge web applications.
-
-
-
-
-My passion lies in combining Software Development with Web & Mobile App Security and Penetration Testing, ensuring the software I build is robust and secure on top of assisting organizations secure their systems through simulated attacks.
+I engineer applications with security as a first principle — not an afterthought. From web and API hardening, to DevSecOps automation and resilient architecture, my focus is on building systems that scale securely and can withstand real-world threats.
 
 I am, 
 
@@ -27,7 +21,7 @@ I am,
 
 - 🌱 Continuously exploring advanced cybersecurity techniques and secure coding practices
 
-- Continuously mastering modern frameworks in Python and JavaScript for building modern web applications. 
+- 💡 Continuously mastering modern frameworks in Python and JavaScript for building modern web applications. 
 
 - 💬 Open to discussions on full stack development, API design, secure architecture, Cybersecurity --> Penetration Testing(Ethical Hacking)
 
@@ -62,13 +56,13 @@ I am,
 
 <h4>Frontend</h4>
 
-> React &nbsp; | &nbsp; Django Template Language (DTL) &nbsp; | &nbsp; Bootstrap &nbsp; | Tailwind CSS &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3
+> React &nbsp; | &nbsp; Django Template Language (DTL) &nbsp; | &nbsp; Bootstrap &nbsp; | Tailwind CSS &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3 | &nbsp; Next.js 
 
 ---
 
 <h4>Backend</h4>  
 
-> Django &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; | &nbsp; Next.js
+> Django &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; 
 
 ---
 
