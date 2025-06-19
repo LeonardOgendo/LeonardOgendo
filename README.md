@@ -112,9 +112,4 @@ I am,
 <br>
 
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardogendo&show_icons=true&locale=en&layout=compact" alt="leonardogendo" height="175" />
-  &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=leonardogendo&show_icons=true&locale=en" alt="leonardogendo" height="175" />
-</p>
 
