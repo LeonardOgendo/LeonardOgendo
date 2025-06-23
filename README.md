@@ -9,12 +9,12 @@
 
 ### About Me
 
-I’m a **Junior Secure Software Engineer** with focused expertise in Secure Software Engineering, Web & Mobile Application Security, and Cybersecurity practices including Penetration Testing and Security Operations (SOC/Blue Team).
-With a strong command of **Python** and **JavaScript**, I build, test, and secure modern web applications — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
+I’m a **Junior Secure Software Engineer** actively building deep expertise in Secure SDLC, Web & Mobile Application Security, and Cybersecurity Engineering — across Penetration Testing and Blue Team Operations (SOC).
+With a strong command of **Python** and **JavaScript**, I build, test, and secure modern applications — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
 
 My unique capability lies in blending development and security into a unified engineering discipline, enabling me to write resilient systems that defend against threats by design.
 
-I engineer applications with security as a first principle — not an afterthought. From web and API hardening, to DevSecOps automation and resilient architecture, my focus is on building systems that scale securely and can withstand real-world threats.
+I'm currently focused on undertanding how systems break, and building them so they dont.
 
 I am, 
 
