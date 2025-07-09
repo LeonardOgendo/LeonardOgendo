@@ -2,7 +2,7 @@
   <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg" alt="Banner Image" width="100%" height="180"/>
 </p>
 <h1 align="center">Hi 👋, I'm Leonard Ogendo</h1>
-<h3 align="center"Secure Software Engineer | Pen Testing & Security Operations 🛡️ | AppSec </h3>
+<h3 align="center">Secure Software Engineer | Pen Testing & Security Operations 🛡️ | AppSec </h3>
 <img align="right" alt="Coding"  width="350" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
