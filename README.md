@@ -2,14 +2,14 @@
   <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/Readme.jpg" alt="Banner Image" width="100%" height="180"/>
 </p>
 <h1 align="center">Hi 👋, I'm Leonard Ogendo</h1>
-<h3 align="center">A Junior Secure Software Engineer | Pen Testing & Security Operations 🛡️ | AppSec </h3>
+<h3 align="center"Secure Software Engineer | Pen Testing & Security Operations 🛡️ | AppSec </h3>
 <img align="right" alt="Coding"  width="350" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1718690730~exp=1718694330~hmac=c8a364819a34c670afddfba45896c0e4f2cae930d8b897d57653e8e18ef843e5&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardogendo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardogendo" /> </p>
 
 
 ### About Me
 
-I’m a **Junior Secure Software Engineer** actively building deep expertise in Secure SDLC, Web & Mobile Application Security, and Cybersecurity Engineering — across Penetration Testing and Blue Team Operations (SOC).
+I’m a **Secure Software Engineer** actively building deep expertise in Secure SDLC, Web & Mobile Application Security, and Cybersecurity Engineering — across Penetration Testing and Blue Team Operations (SOC).
 With a strong command of **Python** and **JavaScript**, I build, test, and secure modern applications — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
 
 My unique capability lies in blending development and security into a unified engineering discipline, enabling me to write resilient systems that defend against threats by design.
