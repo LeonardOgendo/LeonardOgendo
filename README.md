@@ -32,7 +32,7 @@ I build, test, and secure modern applications — from the codebase to the cloud
 &nbsp;&nbsp;&nbsp;&nbsp; `GitHub Actions CI/CD`, `Docker Security`, `SAST (SonarQube/Bandit)`, `DAST (OWASP ZAP)`, `Dependency Scanning (Snyk)`
 
 🔹 **Offensive Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Penetration Testing`, `Bug Bounties` 
+&nbsp;&nbsp;&nbsp;&nbsp; `Penetration Testing`, `Bug Bounties`, `Adversary Simulation Basics`
 
 🔹 **AI-Augmented Cyber Defense**  
 &nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `GPT for Security Report Summaries`, `MITRE ATT&CK Mapping` 
@@ -45,31 +45,34 @@ I build, test, and secure modern applications — from the codebase to the cloud
 
 <h4>Core Languages</h4>
 
-> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Bash (Scripting)
+> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; PHP | &nbsp; Bash (Scripting) | &nbsp; SQL
 
 ---
 
-<h4>Frontend</h4>
+<h4>Frontend Development</h4>
 
-> React &nbsp; | &nbsp; Django Template Language (DTL) &nbsp; | &nbsp; Bootstrap &nbsp; | Tailwind CSS &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3 | &nbsp; Next.js 
-
----
-
-<h4>Backend</h4>  
-
-> Django &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Express.js &nbsp; 
+> React.js &nbsp; | &nbsp; Vue.js (Composition API) &nbsp; | Tailwind CSS &nbsp; | &nbsp; Bootstrap 5 &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3 | &nbsp;
 
 ---
 
-<h4>APIs & Frameworks</h4>
+<h4>Fullstack & Backend Frameworks</h4>
 
-> Django REST Framework (DRF) &nbsp; | &nbsp; FastAPI &nbsp; | &nbsp; Express API
+> Next.js &nbsp; |  Django + Django REST Framework(DRF)  &nbsp; | FastAPI &nbsp; | &nbsp; Node.js & Express.js &nbsp; | &nbsp; Laravel (PHP) &nbsp; 
 
+---
+
+<h4>API Development & Security</h4>
+
+> RESTful API Design & Integration (DRF, Express.js, Laravel)
+> JWT & Authentication Hardening
+> API Security (OWASP API Top 10)
+> Postman Testing
+> GraphQL (Basic Touch)
 ---
 
 <h4>Databases</h4>
 
-> PostgreSQL &nbsp; | &nbsp; MongoDB
+> PostgreSQL &nbsp; | &nbsp; MongoDB &nbsp; | MySQL
 
 ---
 
