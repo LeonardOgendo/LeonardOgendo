@@ -22,8 +22,8 @@ I build, test, and secure modern applications — from the codebase to the cloud
 
 ### 🎯 Focus Areas  
 
-🔹 **Secure Fullstack Development**  
-&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `PHP` + `Secure Coding`
+🔹 **Secure Fullstack Development | AI-Driven Development Workflows**  
+&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `PHP`, `Secure Coding`
 
 🔹 **Web & Mobile App Security**  
 &nbsp;&nbsp;&nbsp;&nbsp; `OWASP Top 10`, `API Security Top 10`, `Vulnerability Analysis & Patching`
