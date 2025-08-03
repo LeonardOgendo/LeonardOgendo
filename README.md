@@ -23,7 +23,7 @@ I build, test, and secure modern applications — from the codebase to the cloud
 ### 🎯 Focus Areas  
 
 🔹 **Secure Fullstack Development**  
-&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `PHP`, + `Secure Code Practices`
+&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `PHP` + `Secure Coding`
 
 🔹 **Web & Mobile App Security**  
 &nbsp;&nbsp;&nbsp;&nbsp; `OWASP Top 10`, `API Security Top 10`, `Vulnerability Analysis & Patching`
@@ -64,9 +64,13 @@ I build, test, and secure modern applications — from the codebase to the cloud
 <h4>API Development & Security</h4>
 
 > RESTful API Design & Integration (DRF, Express.js, Laravel)
+
 > JWT & Authentication Hardening
+
 > API Security (OWASP API Top 10)
+
 > Postman Testing
+
 > GraphQL (Basic Touch)
 ---
 
@@ -76,34 +80,67 @@ I build, test, and secure modern applications — from the codebase to the cloud
 
 ---
 
-<h4>Version Control</h4>  
+<h4>DevSecOps & Automation (In Progress)</h4>
+
+> GitHub Actions CI/CD &nbsp; | &nbsp; Docker & Container Security &nbsp; | &nbsp; SAST (SonarQube/Bandit) &nbsp; | &nbsp; DAST (OWASP ZAP) &nbsp; | &nbsp; Dependency Scanning (Snyk)
+
+---
+
+<h4>Version Control & Tools</h4>  
 
 > Git &nbsp; | &nbsp; GitHub
 
----
 
-<h4>Cybersecurity</h4> 
+<br>
 
-> Penetration Testing (Ethical Hacking)
+### 🛡️ Cybersecurity
+
+<h4>Offensive Security | Application Security</h4> 
+
+> Penetration Testing (Fundamentals)
 
 > Secure Coding Practices
 
-> OWASP Top 10
+> OWASP Top 10 (Web & API)
+
+> Reconnaissance (Manual + Automated Recon flows) 
+
+> Open Source Intelligence (OSINT)
 
 > Vulnerability Assessment
 
-> Vulnerability Scanning 
+> Vulnerability Scanning
 
-> Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB
+> Exploitation (Safe Labs: DVWA, OWASP Juice Shop, TryHackMe, HackTheBox)
+
+> Reporting  
+
+> **Tools**: Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB , Google (Dorks & OSINT), + MORE
 
 ---
 
-<h4>Other Tools</h4>
+<h4>AI-Augmented Cyber Defense (In Progress)</h4>
 
-> <p align="left">
-> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux &nbsp;
->  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="17"/> Docker &nbsp;
-> </p>
+> AI-Assisted Log Analysis
+
+> Threat Hunting Automation
+
+> AI-Assisted Security Reporting 
+
+> MITRE ATT&CK Mapping
+
+---
+
+<h4>Operating Systems</h4>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux (Ubuntu & Kali) &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="17"/> Windows
+</p>
+
+
+
+<br>
 
 <h4 align="left">Connect with me:</h4>
 
