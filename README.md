@@ -35,7 +35,7 @@ I build, test, and secure modern applications — from the codebase to the cloud
 &nbsp;&nbsp;&nbsp;&nbsp; `Penetration Testing`, `Bug Bounties`, `Adversary Simulation Basics`
 
 🔹 **AI-Augmented Cyber Defense**  
-&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `GPT for Security Report Summaries`, `MITRE ATT&CK Mapping` 
+&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `AI-Assisted Security Reporting (GPT)`, `MITRE ATT&CK Mapping` 
 
 <br>
 
@@ -125,7 +125,7 @@ I build, test, and secure modern applications — from the codebase to the cloud
 
 > Threat Hunting Automation
 
-> AI-Assisted Security Reporting 
+> AI-Assisted Security Reporting (GPT)
 
 > MITRE ATT&CK Mapping
 
