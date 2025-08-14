@@ -7,7 +7,7 @@
 ### About Me
 
 I’m an **early-career Secure Software Engineer and Cybersecurity Specialist**, focused on **Secure SDLC, AI-augmented cyber defense/offense, and DevSecOps**.  
-I build, test, and secure modern applications — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
+I build, test, and secure modern applications using JavaScript, Python & PHP — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
 
 💡 **`Unique Edge`**: I bridge **secure development practices** with **AI-driven workflows**, enabling faster, smarter, and more resilient engineering.
 
