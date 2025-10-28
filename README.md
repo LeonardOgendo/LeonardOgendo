@@ -10,9 +10,9 @@ Early-career Engineer deepening expertise in Secure Software development, Applic
 
 I help organizations in both public and private sectors build, secure, and optimize their digital systems — protecting data, applications, and critical infrastructure against evolving cyber threats.
 
-💡 **`Unique Edge`**: I bridge **secure development practices** with **AI-driven workflows**, enabling faster, smarter, and more resilient engineering.
+💡 **`Unique Edge`**: I engineer and secure modern systems — merging secure software engineering with AI-driven Cyber Defense to outpace evolving threats.
 
-🌱 **`Currently`** deepening my knowledge of offensive security (Red Teaming) and DevSecOps automation to embed security into every phase of development.
+🌱 **`Currently`** advancing my expertise in Offensive Security and DevSecOps automation, embedding security into every phase of development.
 
 <br>
 
@@ -61,7 +61,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 <h4>API Development & Security</h4>
 
-> RESTful API Design & Integration (DRF, Express.js, Laravel)
+> RESTful API Design & Integration (DRF, Express.js)
 
 > JWT & Authentication Hardening
 
