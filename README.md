@@ -6,7 +6,7 @@
 
 ### About Me
 
-Early-career Engineer specializing in Secure Software development, Application Security, DevSecOps, and AI-Augmented Cyber Defense.
+Early-career Engineer specializing in **Secure Software development**, **Application Security**, **DevSecOps**, and **AI-Augmented Cyber Defense**.
 
 I help organizations in both public and private sectors build, secure, and optimize their digital systems — protecting data, applications, and critical infrastructure against evolving cyber threats.
 
