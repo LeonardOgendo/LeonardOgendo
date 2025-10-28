@@ -20,7 +20,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 ### 🎯 Focus Areas  
 
-🔹 **Secure Fullstack Development | AI-Driven Development Workflows**  
+🔹 **Secure Fullstack Development & AI-Driven Workflows**  
 &nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `Secure Coding`
 
 🔹 **Web & Mobile Application Security**  
