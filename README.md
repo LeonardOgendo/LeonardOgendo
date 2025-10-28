@@ -1,13 +1,14 @@
 <p>
   <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/linkedin_banner.png" alt="Banner Image" width="100%" height="180"/>
 </p>
-<h1 align="center">Hi 👋, I'm Leonard Ogendo</h1>
-<h3 align="center">A Secure Software Engineer & Cybersecurity Specialist</h3>
+<h1 align="center">Hi 👋, I'm Leonard</h1>
+<h3 align="center">A Secure Software & Cybersecurity Engineer</h3>
 
 ### About Me
 
-I’m an **early-career Secure Software Engineer and Cybersecurity Specialist**, focused on **Secure SDLC, AI-augmented cyber defense/offense, and DevSecOps**.  
-I build, test, and secure modern applications using JavaScript, Python & PHP — from the codebase to the cloud — alongside helping businesses and organizations strengthen their defenses against evolving cyber threats.
+Early-career Engineer deepening expertise in Secure Software development, Application Security, DevSecOps, and AI-Augmented Cyber Defense.
+
+I help organizations in both public and private sectors build, secure, and optimize their digital systems — protecting data, applications, and critical infrastructure against evolving cyber threats.
 
 💡 **`Unique Edge`**: I bridge **secure development practices** with **AI-driven workflows**, enabling faster, smarter, and more resilient engineering.
 
@@ -20,19 +21,19 @@ I build, test, and secure modern applications using JavaScript, Python & PHP —
 ### 🎯 Focus Areas  
 
 🔹 **Secure Fullstack Development | AI-Driven Development Workflows**  
-&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `PHP`, `Secure Coding`
+&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `Secure Coding`
 
-🔹 **Web & Mobile App Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `OWASP Top 10`, `API Security Top 10`, `Vulnerability Analysis & Patching`
+🔹 **Web & Mobile Application Security**  
+&nbsp;&nbsp;&nbsp;&nbsp; `OWASP Top 10 (Web, API, Mobile)`, `Secure Coding & Design`, `Vulnerability Analysis & Patching`, `SAST/DAST Integration`, `API Hardening`, `Secure Authentication & Access Control`
 
-🔹 **DevSecOps Automation**  
-&nbsp;&nbsp;&nbsp;&nbsp; `GitHub Actions CI/CD`, `Docker Security`, `SAST (SonarQube/Bandit)`, `DAST (OWASP ZAP)`, `Dependency Scanning (Snyk)`
+🔹 **DevSecOps Practices**  
+&nbsp;&nbsp;&nbsp;&nbsp; `Secure CI/CD Automation (GitHub Actions • SAST/DAST/SCA)`, `Container & Cloud Security`, `Secrets Management`, `Continuous Compliance`
 
 🔹 **Offensive Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Penetration Testing`, `Bug Bounties`, `Adversary Simulation Basics`
+&nbsp;&nbsp;&nbsp;&nbsp; `Web & API Penetration Testing (Manual & Automated)`, `Vulnerability Research`, `Bug Bounty Methodologies`, `Adversary Simulation (MITRE ATT&CK)`
 
 🔹 **AI-Augmented Cyber Defense**  
-&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `AI-Assisted Security Reporting (GPT)`, `MITRE ATT&CK Mapping` 
+&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `SOC Triage Optimization`, `Intelligent Security Reporting (GPT Integrations)` 
 
 <br>
 
@@ -42,19 +43,19 @@ I build, test, and secure modern applications using JavaScript, Python & PHP —
 
 <h4>Core Languages</h4>
 
-> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; PHP | &nbsp; Bash (Scripting) | &nbsp; SQL
+> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Bash (Scripting) | &nbsp; SQL
 
 ---
 
 <h4>Frontend Development</h4>
 
-> React.js &nbsp; | &nbsp; Vue.js (Composition API) &nbsp; | Tailwind CSS &nbsp; | &nbsp; Bootstrap 5 &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3 | &nbsp;
+> React.js &nbsp; | &nbsp; Angular &nbsp; | Tailwind CSS &nbsp; | &nbsp; Bootstrap 5 &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; CSS3 | &nbsp;
 
 ---
 
 <h4>Fullstack & Backend Frameworks</h4>
 
-> Next.js &nbsp; |  Django + Django REST Framework(DRF)  &nbsp; | FastAPI &nbsp; | &nbsp; Node.js & Express.js &nbsp; | &nbsp; Laravel (PHP) &nbsp; 
+> Next.js &nbsp; |  Django + Django REST Framework(DRF)  &nbsp; | FastAPI &nbsp; | &nbsp; Node.js & Express.js &nbsp;
 
 ---
 
