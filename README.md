@@ -21,19 +21,19 @@ I help organizations in both public and private sectors build, secure, and optim
 ### 🎯 Focus Areas  
 
 🔹 **Secure Fullstack Development & AI-Driven Workflows**  
-&nbsp;&nbsp;&nbsp;&nbsp; `JavaScript`, `Python`, `Secure Coding`
+&nbsp;&nbsp;&nbsp;&nbsp; `Java + Spring Boot` • `Node.js + TypeScript` • `React` • `Angular` • `Secure Coding & AI-Augmented Workflows`
 
 🔹 **Web & Mobile Application Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `OWASP Top 10 (Web, API, Mobile)`, `Secure Coding & Design`, `Vulnerability Analysis & Patching`, `SAST/DAST Integration`, `API Hardening`, `Secure Authentication & Access Control`
+&nbsp;&nbsp;&nbsp;&nbsp; `Application Security (Web, API)` • `OWASP Top 10` • `Secure Authentication & Access Control (JWT, OAuth2, RBAC)` • `Secure Code Reviews (Java, Node, Python)` • `Vulnerability Patching & Hardening`
 
 🔹 **DevSecOps Practices**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Secure CI/CD Automation (GitHub Actions • SAST/DAST/SCA)`, `Container & Cloud Security`, `Secrets Management`, `Continuous Compliance`
+&nbsp;&nbsp;&nbsp;&nbsp; `Secure CI/CD Automation (GitHub Actions, SAST/DAST/SCA)` • `Container & Cloud Security` • `Secrets Management` • `Continuous Compliance & Monitoring`
 
 🔹 **Offensive Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Web & API Penetration Testing (Manual & Automated)`, `Vulnerability Research`, `Bug Bounty Methodologies`, `Adversary Simulation (MITRE ATT&CK)`
+&nbsp;&nbsp;&nbsp;&nbsp; `Web & API Penetration Testing (Manual & Automated)` • `Adversary Simulation (MITRE ATT&CK)` • `Threat Hunting & Exploit Research` • `Security Automation with Python`
 
-🔹 **AI-Augmented Cyber Defense**  
-&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis`, `Threat Hunting Automation`, `SOC Triage Optimization`, `Intelligent Security Reporting (GPT Integrations)` 
+🔹 **AI-Augmented Cyber Defense** 
+&nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis & Threat Detection` • `SIEM Use-Case Development & Detection Engineering` • `Security Automation Workflows` • `SOC Triage Optimization` • `Intelligent Security Reporting (GPT & LLM Integrations)` 
 
 <br>
 
