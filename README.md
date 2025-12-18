@@ -117,6 +117,8 @@ I help organizations in both public and private sectors build, secure, and optim
 
 > Exploitation & Attack Simulation
 
+> Security Automation with Python 
+
 > Security Reporting & Remediation Guidance  
 
 > **Tools**: Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB , Google (Dorks & OSINT), + MORE
