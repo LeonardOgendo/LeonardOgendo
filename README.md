@@ -26,7 +26,7 @@ I help organizations in both public and private sectors build, secure, and optim
 🔹 **Web & Mobile Application Security**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Application Security (Web, API)` • `OWASP Top 10` • `Secure Authentication & Access Control (JWT, OAuth2, RBAC)` • `Secure Code Reviews (Java, Node, Python)` • `Vulnerability Patching & Hardening`
 
-🔹 **DevSecOps Practices**  
+🔹 **DevSecOps**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Secure CI/CD Automation (GitHub Actions, SAST/DAST/SCA)` • `Container & Cloud Security` • `Secrets Management` • `Continuous Compliance & Monitoring`
 
 🔹 **Offensive Security**  
