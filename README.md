@@ -21,7 +21,7 @@ I help organizations in both public and private sectors build, secure, and optim
 ### 🎯 Focus Areas  
 
 🔹 **Secure Fullstack Development & AI-Driven Workflows**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Java + Spring Boot` • `Node.js + TypeScript` • `React` • `Angular` • `Secure Coding & AI-Augmented Workflows`
+&nbsp;&nbsp;&nbsp;&nbsp; `Java + Spring Boot` • `Node.js + TypeScript` • `React` • `Angular`
 
 🔹 **Web & Mobile Application Security**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Application Security (Web, API)` • `OWASP Top 10` • `Secure Authentication & Access Control (JWT, OAuth2, RBAC)` • `Secure Code Reviews (Java, Node, Python)` • `Vulnerability Patching & Hardening`
@@ -43,7 +43,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 <h4>Core Languages</h4>
 
-> Python &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Bash (Scripting) | &nbsp; SQL
+> Java &nbsp; | &nbsp; JavaScript / TypeScript &nbsp; | &nbsp; Python | &nbsp; Bash (Scripting) | &nbsp; SQL
 
 ---
 
@@ -53,23 +53,24 @@ I help organizations in both public and private sectors build, secure, and optim
 
 ---
 
-<h4>Fullstack & Backend Frameworks</h4>
+<h4>Backend Development</h4>
 
-> Next.js &nbsp; |  Django + Django REST Framework(DRF)  &nbsp; | FastAPI &nbsp; | &nbsp; Node.js & Express.js &nbsp;
+> Spring Boot &nbsp; | Node.js + Express / Nest.js  &nbsp; | Django (Familiar)
 
 ---
 
 <h4>API Development & Security</h4>
 
-> RESTful API Design & Integration (DRF, Express.js)
+> RESTful API Design & Integration (Spring Boot, Node.js)
 
 > JWT & Authentication Hardening
+
+> OAuth2 / RBAC Implementation
 
 > API Security (OWASP API Top 10)
 
 > Postman Testing
 
-> GraphQL (Basic Touch)
 ---
 
 <h4>Databases</h4>
@@ -78,7 +79,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 ---
 
-<h4>DevSecOps & Automation (In Progress)</h4>
+<h4>DevSecOps & Automation</h4>
 
 > GitHub Actions CI/CD &nbsp; | &nbsp; Docker & Container Security &nbsp; | &nbsp; SAST (SonarQube/Bandit) &nbsp; | &nbsp; DAST (OWASP ZAP) &nbsp; | &nbsp; Dependency Scanning (Snyk)
 
@@ -93,25 +94,30 @@ I help organizations in both public and private sectors build, secure, and optim
 
 ### 🛡️ Cybersecurity
 
-<h4>Offensive Security | Application Security</h4> 
-
-> Penetration Testing (Fundamentals)
+<h4>Application Security</h4> 
 
 > Secure Coding Practices
 
 > OWASP Top 10 (Web & API)
 
-> Reconnaissance (Manual + Automated Recon flows) 
+> Secure Authentication & Authorization (JWT, OAuth2, RBAC)
 
-> Open Source Intelligence (OSINT)
+> Secure Code Reviews (Java, Node.js, Python)
 
-> Vulnerability Assessment
+> Vulnerability Assessment, Patching & Hardening 
 
-> Vulnerability Scanning
 
-> Exploitation (Safe Labs: DVWA, OWASP Juice Shop, TryHackMe, HackTheBox)
+<h4>Offensive Security</h4>
 
-> Reporting  
+> Web & API Penetration Testing (Manual & Automation)
+
+> Reconnaissance & OSINT (Manual + Automated) 
+
+> Vulnerability Scanning & Assessment
+
+> Exploitation & Attack Simulation
+
+> Security Reporting & Remediation Guidance  
 
 > **Tools**: Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB , Google (Dorks & OSINT), + MORE
 
@@ -119,13 +125,15 @@ I help organizations in both public and private sectors build, secure, and optim
 
 <h4>AI-Augmented Cyber Defense (In Progress)</h4>
 
-> AI-Assisted Log Analysis
+> AI-Assisted Log Analysis & Threat Detection
 
-> Threat Hunting Automation
+> SIEM Use-Case Development & Detection Engineering 
 
-> AI-Assisted Security Reporting (GPT)
+> Security Automation Workflows (Python & AI)
 
 > MITRE ATT&CK Mapping
+
+> Intelligent Security Reporting (GPT & LLM Integrations) 
 
 ---
 
