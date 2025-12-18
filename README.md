@@ -32,7 +32,7 @@ I help organizations in both public and private sectors build, secure, and optim
 🔹 **Offensive Security**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Web & API Penetration Testing (Manual & Automated)` • `Adversary Simulation (MITRE ATT&CK)` • `Threat Hunting & Exploit Research` • `Security Automation with Python`
 
-🔹 **AI-Augmented Cyber Defense** 
+🔹 **AI-Augmented Cyber Defense**  
 &nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis & Threat Detection` • `SIEM Use-Case Development & Detection Engineering` • `Security Automation Workflows` • `SOC Triage Optimization` • `Intelligent Security Reporting (GPT & LLM Integrations)` 
 
 <br>
