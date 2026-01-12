@@ -6,13 +6,13 @@
 
 ### About Me
 
-Early-career Engineer specializing in **Secure Software development**, **Application Security**, **DevSecOps**, and **AI-Augmented Cyber Defense**.
+Early-career Engineer specializing in **Secure Software development**, **Application Security**, **DevSecOps**, **Security Testing & Automation**.
 
 I help organizations in both public and private sectors build, secure, and optimize their digital systems — protecting data, applications, and critical infrastructure against evolving cyber threats.
 
-💡 **`Unique Edge`**: I engineer and secure modern systems — merging secure software engineering with AI-driven Cyber Defense to outpace evolving threats.
+💡 **`Unique Edge`**: I engineer and secure modern systems — combining secure software engineering with rigorous security testing and automation to reduce real-world risk.
 
-🌱 **`Currently`** advancing my expertise in Offensive Security and DevSecOps automation, embedding security into every phase of development.
+🌱 **`Currently`** advancing my expertise in security testing and DevSecOps automation, embedding security into every phase of development.
 
 <br>
 
@@ -20,7 +20,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 ### 🎯 Focus Areas  
 
-🔹 **Secure Fullstack Development & AI-Driven Workflows**  
+🔹 **Secure Fullstack Development**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Java + Spring Boot` • `Node.js + TypeScript` • `React` • `Angular`
 
 🔹 **Web & Mobile Application Security**  
@@ -29,14 +29,13 @@ I help organizations in both public and private sectors build, secure, and optim
 🔹 **DevSecOps**  
 &nbsp;&nbsp;&nbsp;&nbsp; `Secure CI/CD Automation (GitHub Actions, SAST/DAST/SCA)` • `Container & Cloud Security` • `Secrets Management` • `Continuous Compliance & Monitoring`
 
-🔹 **Offensive Security**  
-&nbsp;&nbsp;&nbsp;&nbsp; `Web & API Penetration Testing (Manual & Automated)` • `Adversary Simulation (MITRE ATT&CK)` • `Threat Hunting & Exploit Research` • `Security Automation with Python`
+🔹 **Security Testing & Automation**  
+&nbsp;&nbsp;&nbsp;&nbsp; `Web & API Security Testing (Manual & Automated)` • `Adversary Simulation (MITRE ATT&CK)` • `Vulnerability Validation & Exploit Research` • `Security Automation with Python`
 
-🔹 **AI-Augmented Cyber Defense**  
+🔹 **Security Monitoring & Detection**  
 &nbsp;&nbsp;&nbsp;&nbsp; `AI-Assisted Log Analysis & Threat Detection` • `SIEM Use-Case Development & Detection Engineering` • `Security Automation Workflows` • `SOC Triage Optimization` • `Intelligent Security Reporting (GPT & LLM Integrations)` 
 
 <br>
-
 
 
 ### 🛠 Languages and Tools
@@ -107,9 +106,9 @@ I help organizations in both public and private sectors build, secure, and optim
 > Vulnerability Assessment, Patching & Hardening 
 
 
-<h4>Offensive Security</h4>
+<h4>Security Testing & Automation</h4>
 
-> Web & API Penetration Testing (Manual & Automation)
+> Web & API Security Testing (Manual & Automation)
 
 > Reconnaissance & OSINT (Manual + Automated) 
 
@@ -121,11 +120,10 @@ I help organizations in both public and private sectors build, secure, and optim
 
 > Security Reporting & Remediation Guidance  
 
-> **Tools**: Burp Suite &nbsp; | &nbsp; Nmap &nbsp; | &nbsp; Metasploit &nbsp; | &nbsp; Nikto &nbsp; | &nbsp; ExploitDB , Google (Dorks & OSINT), + MORE
 
 ---
 
-<h4>AI-Augmented Cyber Defense (In Progress)</h4>
+<h4>Security Monitoring & Detection</h4>
 
 > AI-Assisted Log Analysis & Threat Detection
 
@@ -135,7 +133,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 > MITRE ATT&CK Mapping
 
-> Intelligent Security Reporting (GPT & LLM Integrations) 
+> Intelligent Security Reporting (GPT & LLM Integrations)
 
 ---
 
@@ -145,6 +143,8 @@ I help organizations in both public and private sectors build, secure, and optim
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="17"/> Linux (Ubuntu & Kali) &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="17"/> Windows
 </p>
+
+
 
 
 
