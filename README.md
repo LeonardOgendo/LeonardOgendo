@@ -54,7 +54,7 @@ I help organizations in both public and private sectors build, secure, and optim
 
 <h4>Backend Development</h4>
 
-> Spring Boot &nbsp; | Node.js + Express / Nest.js  &nbsp; | Django (Familiar)
+> Spring Boot + Java &nbsp; | Node.js + Express / Nest.js  &nbsp; | Django (Familiar)
 
 ---
 
