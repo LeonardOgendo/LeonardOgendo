@@ -69,5 +69,5 @@ I build and secure modern applications, APIs, and delivery pipelines — helping
 ### Connect With Me
 
 - 🌐 Portfolio: https://leonard‑ogendo‑portfolio.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/LeonardOgendo  
+- 💼 LinkedIn: https://linkedin.com/in/leonard-ogendo  
 - 📧 Email: ogendoleonard5@gmail.com
