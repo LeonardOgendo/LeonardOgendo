@@ -2,7 +2,7 @@
   <img src="https://github.com/LeonardOgendo/LeonardOgendo/blob/main/linkedin_banner.png" alt="Banner Image" width="100%" height="180"/>
 </p>
 <h1 align="center">Hi 👋, I'm Leonard</h1>
-<h3 align="center">Secure Software & Cybersecurity Engineer</h3>
+<h3>Secure Software & Cybersecurity Engineer</h3>
 
 I build and secure modern applications, APIs, and delivery pipelines — helping organizations protect systems from real‑world cyber threats. My work blends secure engineering, DevSecOps integration, and automated security testing.
 
