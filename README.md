@@ -14,23 +14,23 @@ Currently working across fullstack engineering, secure SDLC practices, and Web/A
 
 ## Core Specialization & Stack
 
-### 🔹 Secure Software Engineering
+#### 🔹 Secure Software Engineering
 
 `Java (Spring Boot)` • `Node.js (TypeScript / Express / NestJS)` • `React` • `Angular` • `REST APIs` • `Secure Coding`
 
-### 🔹 Application Security
+#### 🔹 Application Security
 
 `Authentication & Authorization (JWT, OAuth2, RBAC)` • `OWASP Top 10` • `API Security` • `Secure Code Review` • `Security Hardening`
 
-### 🔹 Security Testing & Automation
+#### 🔹 Security Testing & Automation
 
 `Web & API Security Testing` • `Python Security Automation` • `Vulnerability Validation` • `Threat Modeling`
 
-### 🔹 DevSecOps & Secure Delivery
+#### 🔹 DevSecOps & Secure Delivery
 
 `GitHub Actions` • `SAST / DAST / SCA` • `Docker` • `CI/CD Security` • `Secrets Management` 
 
-### 🔹 Supporting Technologies
+#### 🔹 Supporting Technologies
 
 `AWS`, `PostgreSQL` • `MongoDB` • `Bash` 
 
