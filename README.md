@@ -10,7 +10,6 @@ I build secure backend systems, APIs, and modern web applications — with a str
 
 Currently working across fullstack engineering, secure SDLC practices, and Web/API security testing while deepening my expertise in Application Security (AppSec).
 
-<br>
 
 ## Core Specialization & Stack
 
